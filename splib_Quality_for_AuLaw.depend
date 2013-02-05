@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1317293495 source:d:\我的文件\codeblock\splib_quality_for_aulaw\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"g711.h"
+	"splib_quality.h"
+
+1157354732 d:\我的文件\codeblock\splib_quality_for_aulaw\g711.h
+
+1314070096 d:\我的文件\codeblock\splib_quality_for_aulaw\splib_quality.h
+
+1314070238 source:d:\我的文件\codeblock\splib_quality_for_aulaw\splib_quality.cpp
+	<stdlib.h>
+	<math.h>
+	"splib_quality.h"
+
+1157354730 source:d:\我的文件\codeblock\splib_quality_for_aulaw\g711.cpp
+	<stdio.h>
+	"g711.h"
+
